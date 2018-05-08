@@ -1,0 +1,1 @@
+webpackJsonp([20],{qGhx:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var a=n("VU/8")({name:"pt-enter-manage"},r,!1,function(e){n("z2Eu")},"data-v-2222b017",null);t.default=a.exports},z2Eu:function(e,t){}});
